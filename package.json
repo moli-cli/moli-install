@@ -1,0 +1,30 @@
+{
+  "name": "moli-install",
+  "version": "0.0.3",
+  "description": "moli package installer plugin",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yymoli/moli-install.git"
+  },
+  "keywords": [
+    "moli",
+    "moli-install",
+    "plugin"
+  ],
+  "author": "gct@yonyou.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yymoli/moli-install/issues"
+  },
+  "homepage": "https://github.com/yymoli/moli-install#readme",
+  "dependencies": {
+    "co":"^4.6.0",
+    "chalk": "^1.1.3",
+    "minimist": "^1.2.0",
+    "npminstall": "^2.30.0"
+  }
+}
